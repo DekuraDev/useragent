@@ -9,15 +9,15 @@
 • pkg install python
 • pkg install git
 • pip install requests
-• git clone https://github.com/DekuraDev/surat-surat-al-quran
-• cd surat-surat-al-quran && python surat.py
+• git clone https://github.com/DekuraDev/useragent
+• cd useragent && python unlock-ua.py
 ```
 #### update 
 ```
 • git pull
 ```
 #### Screenshot
-![foto](https://github.com/DekuraDev/surat-surat-al-quran/blob/main/screenshot.png)
+![foto](https://github.com/DekuraDev/useragent/blob/main/screenshot.png)
 
 #### Report bug
 
