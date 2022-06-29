@@ -19,7 +19,7 @@
 ########################################################
 # APIKEY DEFAUL: 2ZxXnjQByF6rPu3GM5DtcEmrJfKqB5xL
 #
-# JIKA API KEY DI ATAS TIDAK BISA/PROGRAM ERRORSILAHKAN AMBIL SENDIRI DI WEBSITE " https://api.apilayer.com "
+# JIKA API KEY DI ATAS TIDAK BISA/PROGRAM ERROR SILAHKAN AMBIL KEY SENDIRI DI WEBSITE " https://api.apilayer.com "
 ########################################################
 
 # Library python #
